@@ -9,15 +9,20 @@ namespace Homework6_2
         public Content content = new Content();
         public void Show()
         {
-
+            this.name.Show();
+            this.author.Show();
+            this.content.Show();
         }
     }
 
     class Title
     {
+        public string TitleName { get; set; }
+
         public void Show()
         {
-
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine($"Title is {this.TitleName}");
         }
     }
 
@@ -42,10 +47,9 @@ namespace Homework6_2
     {
         static void Main(string[] args)
         {
-            Book n = new Book();
-            Title g = new Title();
-            Author h = new Author();
-            Content m = new Content();
+            Book newBook = new Book();
+            Title bigTitle = new Title();
+            newBook.Show();
 
         }
     }
