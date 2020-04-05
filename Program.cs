@@ -28,16 +28,20 @@ namespace Homework6_2
 
     class Author
     {
+        public string AutorName { get; set; }
         public void Show()
         {
-
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
+            Console.WriteLine($"Author is {this.AutorName}");
         }
     }
     class Content
     {
+        public string ContentName { get; set; }
         public void Show()
         {
-
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.WriteLine($"Content is {this.ContentName}");
         }
     }
 
