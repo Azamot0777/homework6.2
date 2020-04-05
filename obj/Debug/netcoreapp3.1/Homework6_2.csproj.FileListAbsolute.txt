@@ -1,0 +1,13 @@
+C:\AlifAcademy\Homework6.2\bin\Debug\netcoreapp3.1\Homework6_2.exe
+C:\AlifAcademy\Homework6.2\bin\Debug\netcoreapp3.1\Homework6_2.deps.json
+C:\AlifAcademy\Homework6.2\bin\Debug\netcoreapp3.1\Homework6_2.runtimeconfig.json
+C:\AlifAcademy\Homework6.2\bin\Debug\netcoreapp3.1\Homework6_2.runtimeconfig.dev.json
+C:\AlifAcademy\Homework6.2\bin\Debug\netcoreapp3.1\Homework6_2.dll
+C:\AlifAcademy\Homework6.2\bin\Debug\netcoreapp3.1\Homework6_2.pdb
+C:\AlifAcademy\Homework6.2\obj\Debug\netcoreapp3.1\Homework6_2.csprojAssemblyReference.cache
+C:\AlifAcademy\Homework6.2\obj\Debug\netcoreapp3.1\Homework6_2.csproj.CoreCompileInputs.cache
+C:\AlifAcademy\Homework6.2\obj\Debug\netcoreapp3.1\Homework6_2.AssemblyInfoInputs.cache
+C:\AlifAcademy\Homework6.2\obj\Debug\netcoreapp3.1\Homework6_2.AssemblyInfo.cs
+C:\AlifAcademy\Homework6.2\obj\Debug\netcoreapp3.1\Homework6_2.dll
+C:\AlifAcademy\Homework6.2\obj\Debug\netcoreapp3.1\Homework6_2.pdb
+C:\AlifAcademy\Homework6.2\obj\Debug\netcoreapp3.1\Homework6_2.genruntimeconfig.cache
