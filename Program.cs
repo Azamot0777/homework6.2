@@ -52,7 +52,20 @@ namespace Homework6_2
         static void Main(string[] args)
         {
             Book newBook = new Book();
+
             Title bigTitle = new Title();
+
+            Console.Write("Enter name of book = ");
+            newBook.name.TitleName = Console.ReadLine();
+
+            Console.Write("Enter author of book = ");
+            newBook.author.AutorName = Console.ReadLine();
+
+            Console.Write("Enter kind of book = ");
+            newBook.content.ContentName = Console.ReadLine();
+
+            Console.WriteLine("Your book is = ");
+
             newBook.Show();
 
         }
