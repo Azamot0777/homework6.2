@@ -64,10 +64,11 @@ namespace Homework6_2
             Console.Write("Enter kind of book = ");
             newBook.content.ContentName = Console.ReadLine();
 
-            Console.WriteLine("Your book is = ");
+            Console.WriteLine("Your book is : ");
 
             newBook.Show();
 
+            Console.ForegroundColor = ConsoleColor.Green;
         }
     }
 }
